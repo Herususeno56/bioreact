@@ -1,0 +1,22 @@
+h2 {
+	color: black;
+	margin-left: 45%;
+}
+a {
+background-color: black;
+font-family: sans-serif;
+font-size: 20px;
+color: white;
+border: white 5px solid;
+border-radius: 25px;
+padding: 12px 20px;
+margin-top: 10px;
+margin-left: 45%;
+text-decoration: none;
+opacity: 0.9;
+}
+table {
+	margin: 30px;
+	margin-left: 43%;
+	line-height: 90%;
+}
